@@ -43,7 +43,7 @@
 	<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 	<br/>
 	<p>Link: 
-		<a href="https://google.com](https://vinyl-bin.notion.site/6d6522f93040491fb1b73bcc39311703">vinyl-bin's notion</a>
+		<a href="https://vinyl-bin.notion.site/6d6522f93040491fb1b73bcc39311703">vinyl-bin's notion</a>
 	</p>
 </div>
 
