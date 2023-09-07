@@ -53,7 +53,7 @@
 <h3>🐳 Stats 🐳</h3>
 <p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyl-bin&langs_count=4&layout=compact&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyl-bin&layout=compact&theme=white)
 
 </p>
 <p>
