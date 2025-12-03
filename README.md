@@ -37,10 +37,10 @@
 
 <div align="center">
 	<h3>🐣 Blog 🐣</h3>
-	<!-- <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> -->
+	<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
 	<br/>
 	<p>Link: 
-		<!-- <a href="https://vinyl-bin.notion.site/6d6522f93040491fb1b73bcc39311703">vinyl-bin's notion</a> -->
+		<a href="[https://vinyl-bin.notion.site/6d6522f93040491fb1b73bcc39311703](https://velog.io/@vinyl-bin/posts)">vinyl-bin.log</a>
 	</p>
 </div>
 
