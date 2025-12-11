@@ -62,7 +62,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 <h3>:trophy: Baekjoon rank  :trophy:</h3>
 
@@ -71,6 +71,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vinyl_bin)](https://solved.ac/vinyl-bin/)
 
 </p>
-</div>
+</div> -->
 
 
